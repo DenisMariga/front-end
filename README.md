@@ -1,3 +1,13 @@
+# React-C# Full Stack CRUD Application
+
+This full-stack web application was built using React for the front end and C# for the back end. The application provides a CRUD (Create, Read, Update, Delete) system for managing employees and departments.
+
+## Features
+
+- View a list of employees and departments.
+- Add new employees and departments.
+- Edit existing employee and department details.
+- Delete employees and departments.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
